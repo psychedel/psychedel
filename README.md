@@ -7,6 +7,7 @@ I believe that in today's world, effective search tools and personalized dashboa
 <br><br>
 And I love specialized smart web communities with nice architecture.
 
+Simplicity is a prerequisite for reliability.
 
 >He that cannot bear with<br>
 >other people’s passions,<br>
