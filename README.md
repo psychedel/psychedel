@@ -1,13 +1,10 @@
-### I use this as my digital introduction 💻
+<h1 align="center">I use this as my digital introduction 💻</h1>
+<h3 align="center">IT researcher, community constructor. from Ukraine 🇺🇦 live in Andorra 🇦🇩</h3>
 
-Main projects: https://psychedel.com | https://except.business
 
-90% of time I work with digital information in all forms - data, code, media. <br>
-I believe that in today's world, effective search tools and personalized dashboards are far more important than comprehensive data collections.
+<br>
+I love specialized smart web communities with nice architecture. Simplicity is a prerequisite for reliability.
 <br><br>
-And I love specialized smart web communities with nice architecture.
-
-Simplicity is a prerequisite for reliability.
 
 >He that cannot bear with<br>
 >other people’s passions,<br>
