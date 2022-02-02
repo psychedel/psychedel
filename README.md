@@ -1,5 +1,5 @@
-<h1 align="center">Digital Profile 💻</h1>
-<h3 align="center">IT researcher, community builder. from Ukraine 🇺🇦 live in Andorra 🇦🇩</h3>
+<h1 align="center">💻</h1>
+<h3 align="center">Web communities craftsman, business automation researcher. From Ukraine 🇺🇦 live in Andorra 🇦🇩</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=6000&width=600&lines=Simplicity+is+a+prerequisite+for+reliability.+)](https://git.io/typing-svg)
 
