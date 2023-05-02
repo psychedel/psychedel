@@ -4,5 +4,6 @@
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=ffdd54)
 
 ![изображение](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
